@@ -5,7 +5,8 @@ I am an experienced Full-Stack Software and AI Engineer with a deep focus on bui
 
 I have also architected and deployed full-stack solutions from scratch, leveraging React, Node.js, Spring Boot, and .NET Core for robust, scalable systems. Whether working on camera security systems, face recognition apps, object detection solutions, or speech-to-text and text-to-speech applications, I have consistently delivered impactful AI solutions in real-time and resource-constrained environments.
 
-#### Technical Skills: Artificial Intelligence (AI) • Full-Stack Development • Edge Computing • Systems Design • Mobile Application Development
+#### Technical Skills:
+Artificial Intelligence (AI) • Full-Stack Development • Edge Computing • Systems Design • Mobile Application Development
 
 ## Education
 Computer Engineering, PhD
