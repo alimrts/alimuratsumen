@@ -11,28 +11,36 @@ Computer Engineering, PhD
 ## Work Experience
 **AI Engineer @ DEPARTMENT OF INFORMATION TECHNOLOGIES AND COMMUNICATIONS, EGM**
 - big impact project 1!
-  big impact project 2!
+- big impact project 2!
+  
 **Full Stack Engineer @ DEPARTMENT OF FIGHTING AGAINST CYBER CRIMES, EGM**
 - big impact project 1!
-  big impact project 2!
+- big impact project 2!
+  
 **Organization Manager @ CORONA GAMEs**
 - big impact project 1!
-  big impact project 2!
+- big impact project 2!
+  
 **3D Generalist @ Animax Animation Studios**
 - big impact project 1!
   big impact project 2!
+  
 **Game Developer @ Kodgraf**
 - big impact project 1!
   big impact project 2!
+  
 **Game Developer @ Microsoft Innovation Center · Contract** 
 - big impact project 1!
   big impact project 2!
+  
 **Team Leader, Flash Animator @ Süleyman Demirel University, Distance Learning Vocational School**
 - big impact project 1!
   big impact project 2!
+  
 **Technical Service Personnel, Flash Animator @ Suleyman Demirel University, Information Technologies Department**
 - big impact project 1!
   big impact project 2!
+  
 ## Projects
 ### Smart Security AI
 A comprehensive camera-based security solution that integrates multiple advanced AI capabilities:
