@@ -48,6 +48,6 @@ Computer Engineering, PhD
 ### Smart Security AI
 A comprehensive camera-based security solution that integrates multiple advanced AI capabilities:
 
-Technologies & Techniques: 
+#### Technologies & Techniques: 
 Uses facial recognition for identity verification and access control, object detection for restricted area monitoring, fire and smoke detection to reduce false alarms, and license plate recognition for vehicle tracking.
 Applications: Deployed in large-scale security environments such as airports, industrial zones, and smart cities. The solution is enhanced with custom object detection, e.g., detecting weapons, helmets, or masks in real-time, integrating deep learning models and convolutional neural networks (CNNs) for accurate detection.
