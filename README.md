@@ -1,5 +1,11 @@
 # AI Engineer | Software Developer | Specialized in Machine Learning, Deep Learning, Computer Vision, and LLMs | Python, Java, JavaScript, C++, C# | Experience in Jetson and TPUs | React, Node.js, Spring Boot, .NET Core
 
+# Ankara / TÜRKİYE | alimrts07@gmail.com | +905447617834
+
+# [Portfolio:] (https://alimrts.github.io/alimuratsumen/)
+# [LinkedIn:] (http://www.linkedin.com/in/ali-murat-sümen-phd-3421593b)
+
+
 ## About
 I am an experienced Full-Stack Software and AI Engineer with a deep focus on building complex AI applications and large-scale systems. With 15 years of experience, I have led the development of end-to-end AI-powered applications across various industries, specializing in computer vision, large language models (LLM), and edge computing on devices such as Jetson, TPU, and Raspberry Pi.
 
