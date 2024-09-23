@@ -12,36 +12,46 @@ Artificial Intelligence (AI) • Full-Stack Development • Edge Computing • S
 Computer Engineering, PhD
 
 ## Work Experience
-**AI Engineer @ DEPARTMENT OF INFORMATION TECHNOLOGIES AND COMMUNICATIONS, EGM**
-- big impact project 1!
-- big impact project 2!
-  
-**Full Stack Engineer @ DEPARTMENT OF FIGHTING AGAINST CYBER CRIMES, EGM**
-- big impact project 1!
-- big impact project 2!
-  
-**Organization Manager @ CORONA GAMEs**
-- big impact project 1!
-- big impact project 2!
-  
-**3D Generalist @ Animax Animation Studios**
-- big impact project 1!
- 
-  
-**Game Developer @ Kodgraf**
-- big impact project 1!
- 
-  
-**Game Developer @ Microsoft Innovation Center · Contract** 
-- big impact project 1!
- 
-  
-**Team Leader, Flash Animator @ Süleyman Demirel University, Distance Learning Vocational School**
-- big impact project 1!
- 
-  
-**Technical Service Personnel, Flash Animator @ Suleyman Demirel University, Information Technologies Department**
-- big impact project 1!
+AI Engineer @ DEPARTMENT OF INFORMATION TECHNOLOGIES AND COMMUNICATIONS, EGM
+Jun 2020 – Present | Türkiye | Full-time | On-site
+
+Led and developed a wide range of full-stack, mobile, and AI-based software solutions for law enforcement.
+Developed AI-driven tools for process optimization, reverse engineering, and decision-making systems.
+Expertise in Python, JavaScript, Java, C#, and other technologies for building innovative systems.
+Worked extensively on Cyber Security applications and mobile technologies.
+Full Stack Engineer @ DEPARTMENT OF FIGHTING AGAINST CYBER CRIMES, EGM
+Nov 2017 – Jun 2020 | Türkiye | Full-time | On-site
+
+Developed iOS apps (Swift) and back-end systems (Java, Spring Boot) for law enforcement.
+Created front-end interfaces (React, JavaScript) and AI applications (Python).
+Applied reverse engineering, penetration testing, and spatial mapping for enhanced decision-making.
+Organization Manager @ CORONA GAME
+Jun 2015 – Nov 2017 | Türkiye | Self-employed | On-site
+
+Co-founded a 3D and mobile game development company.
+Led game development projects using C#, Unity, and 3D design tools.
+Managed project execution and cross-platform software delivery for high-quality gaming solutions.
+3D Generalist @ Animax Animation Studios
+Sep 2012 – Jun 2015 | Türkiye | Full-time | On-site
+
+Created detailed 3D models, animations, and visual effects for digital media and games.
+Utilized tools such as 3ds Max, Maya, Blender, and ZBrush to contribute to the full 3D pipeline.
+Game Developer @ Kodgraf
+Aug 2010 – Sep 2012 | Türkiye | Self-employed | On-site
+
+Co-founded a 3D and mobile game development company.
+Managed technical responsibilities and project lifecycles from concept to launch.
+Worked with Unity, C#, 3ds Max, and mobile development frameworks.
+Game Developer @ Microsoft Innovation Center
+Aug 2009 – Aug 2010 | Türkiye | Contract | On-site
+
+Developed 3D game environments using C# and 3D software for the "Boğaz Harbi" project.
+Utilized the Torque Game Engine for immersive game development.
+Team Leader, Education Content Creator @ Süleyman Demirel University
+Jan 2008 – Jun 2009 | Türkiye | Part-time | On-site
+
+Led a team of 30 people in developing interactive distance learning content.
+Created multimedia web-based courses using HTML, CSS, JavaScript, and Flash.
  
   
 ## Projects
