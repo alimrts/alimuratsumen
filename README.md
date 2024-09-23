@@ -5,15 +5,15 @@ I am an experienced Full-Stack Software and AI Engineer with a deep focus on bui
 
 **Key Skills & Technologies:**
 
-- Backend: Python (FastAPI, Flask, Django), Java (Spring Boot), JavaScript (Node.js), C# (.NET Core)
-- Frontend: JavaScript (React, React Native, Three.js)
-- Mobile: Native iOS (Swift) and Android applications (Java)
-- 3D Applications: 3D S. Max, Blender, Maya
-- Game Engines: Unity 3D, Unreal Engine
-- Graphic & Video Platforms: Adobe Suite
-- Embedded AI & Hardware Integration: Jetson devices (Nano, Xavier), TPU devices (Google Coral, Sophon), Raspberry Pi
-- DevOps & System Design: Docker, Kubernetes, cloud deployments (AWS, GCP), large-scale system architecture
-- AI Models & Algorithms: Object Detection, Face Recognition, Speech-to-Text, Text-to-Speech, Language Translation, Image Enhancement, Custom AI Agents
+- **Backend:** Python (FastAPI, Flask, Django), Java (Spring Boot), JavaScript (Node.js), C# (.NET Core)
+- **Frontend:** JavaScript (React, React Native, Three.js)
+- **Mobile:** Native iOS (Swift) and Android applications (Java)
+- **3D Applications:** 3D S. Max, Blender, Maya
+- **Game Engines:** Unity 3D, Unreal Engine
+- **Graphic & Video Platforms:** Adobe Suite
+- **Embedded AI & Hardware Integration:** Jetson devices (Nano, Xavier), TPU devices (Google Coral, Sophon), Raspberry Pi
+- **DevOps & System Design:** Docker, Kubernetes, cloud deployments (AWS, GCP), large-scale system architecture
+- **AI Models & Algorithms:** Object Detection, Face Recognition, Speech-to-Text, Text-to-Speech, Language Translation, Image Enhancement, Custom AI Agents
 
 
 #### Technical Skills:
