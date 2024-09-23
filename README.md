@@ -137,7 +137,7 @@ Speech-to-Text
 Language Translation
 Full-Stack Development
 
-###Image Enhancement Software with OCR (Sep 2022 - Jun 2023)
+### Image Enhancement Software with OCR (Sep 2022 - Jun 2023)
 Developed a system for enhancing image quality and extracting text from images for automation and data processing.
 
 **Key Features:**
@@ -154,7 +154,7 @@ Document management systems
 License plate recognition
 Paper record digitization
 
-###License Plate Recognition Software (Nov 2020 - May 2021)
+### License Plate Recognition Software (Nov 2020 - May 2021)
 A vehicle tracking system for real-time license plate identification, used in toll collection, parking management, and vehicle law enforcement.
 
 **Key Features:**
@@ -167,7 +167,7 @@ Agile Methodologies
 System Architecture Design
 Neural Networks
 
-###Personnel Recruitment Project (Mar 2019 - Aug 2019)
+### Personnel Recruitment Project (Mar 2019 - Aug 2019)
 Associated with: DEPARTMENT OF FIGHTING AGAINST CYBER CRIMES, EGM
 
 Developed a personnel recruitment system that generates employee lists based on skills, education, and test scores. Branch managers can evaluate and allocate employees to departments based on qualifications.
@@ -178,7 +178,7 @@ React (Frontend)
 MySQL (Database)
 RESTful Web Services
 
-###Accounting and Sales Tracking System
+### Accounting and Sales Tracking System
 Developed an end-to-end accounting and sales tracking system used across more than 10 branches, handling multi-currency transactions and providing comprehensive sales monitoring.
 
 **Key Features:**
@@ -192,7 +192,7 @@ React (Frontend)
 MySQL (Database)
 RESTful APIs
 
-###Automated Testing System
+### Automated Testing System
 Associated with: DEPARTMENT OF FIGHTING AGAINST CYBER CRIMES, EGM
 
 Built an automated testing system using Selenium and Cypress to ensure web application functionality across all modules, simulating user interactions and providing detailed test reports.
@@ -203,7 +203,7 @@ Cypress
 Python
 TypeScript
 
-###Big Data Integration Project
+### Big Data Integration Project
 Associated with: DEPARTMENT OF INFORMATION TECHNOLOGIES AND COMMUNICATIONS, EGM
 
 Led the integration of a law enforcement agency's existing infrastructure into a Big Data ecosystem. The project involved ETL processes, web services, and a React-based frontend for real-time data visualization.
