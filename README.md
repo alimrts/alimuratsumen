@@ -1,4 +1,4 @@
-**AI Engineer | Software Developer | Specialized in Machine Learning, Deep Learning, Computer Vision, and LLMs | Python, Java, JavaScript, C++, C# | Experience in Jetson and TPUs | React, Node.js, Spring Boot, .NET Core**
+### AI Engineer | Software Developer | Specialized in Machine Learning, Deep Learning, Computer Vision, and LLMs | Python, Java, JavaScript, C++, C# | Experience in Jetson and TPUs | React, Node.js, Spring Boot, .NET Core
 
 **Ankara / TÜRKİYE | alimrts07@gmail.com | +905447617834**
 
