@@ -3,13 +3,27 @@
 ## About
 I am an experienced Full-Stack Software and AI Engineer with a deep focus on building complex AI applications and large-scale systems. With 15 years of experience, I have led the development of end-to-end AI-powered applications across various industries, specializing in computer vision, large language models (LLM), and edge computing on devices such as Jetson, TPU, and Raspberry Pi.
 
-I have also architected and deployed full-stack solutions from scratch, leveraging React, Node.js, Spring Boot, and .NET Core for robust, scalable systems. Whether working on camera security systems, face recognition apps, object detection solutions, or speech-to-text and text-to-speech applications, I have consistently delivered impactful AI solutions in real-time and resource-constrained environments.
+**Key Skills & Technologies:**
+
+- Backend: Python (FastAPI, Flask, Django), Java (Spring Boot), JavaScript (Node.js), C# (.NET Core)
+- Frontend: JavaScript (React, React Native, Three.js)
+- Mobile: Native iOS (Swift) and Android applications (Java)
+- 3D Applications: 3D S. Max, Blender, Maya
+- Game Engines: Unity 3D, Unreal Engine
+- Graphic & Video Platforms: Adobe Suite
+- Embedded AI & Hardware Integration: Jetson devices (Nano, Xavier), TPU devices (Google Coral, Sophon), Raspberry Pi
+- DevOps & System Design: Docker, Kubernetes, cloud deployments (AWS, GCP), large-scale system architecture
+- AI Models & Algorithms: Object Detection, Face Recognition, Speech-to-Text, Text-to-Speech, Language Translation, Image Enhancement, Custom AI Agents
+
 
 #### Technical Skills:
-Artificial Intelligence (AI) • Full-Stack Development • Edge Computing • Systems Design • Mobile Application Development
+Artificial Intelligence (AI) • Machine Learning • Full-Stack Development • Edge Computing • Computer Vision • System Architecture Design • Product Development
 
 ## Education
-Computer Engineering, PhD
+**Computer Engineering Doctor of Philosophy - PhD- Suleyman Demirel University** Ankara, Türkiye
+
+In my PhD research, I focused on advancing AI techniques for group-based pathfinding in 3D terrains, addressing the challenges of navigation across complex environments. The study explored novel algorithms that extend the traditional A* pathfinding approach, specifically designed for 3D terrain applications. I utilized the Unity3D game engine to simulate realistic scenarios, integrating slope angles, obstacle avoidance, and group dynamics into the pathfinding process. The research tackled key issues such as group cohesion, collision avoidance between individuals, and optimal traversal strategies in terrains with varying topography. The proposed next-generation pathfinding algorithms demonstrated improvements in efficiency and adaptability in navigating uneven terrain, contributing to the development of more sophisticated AI-driven navigation systems for group-based movements in 3D environments.
+
 
 ## Work Experience
 **AI Engineer @ DEPARTMENT OF INFORMATION TECHNOLOGIES AND COMMUNICATIONS, EGM**
@@ -59,7 +73,7 @@ Jan 2008 – Jun 2009 | Türkiye | Part-time | On-site
 Led a team of 30 people in developing interactive distance learning content.
 Created multimedia web-based courses using HTML, CSS, JavaScript, and Flash.
 
-**Technical Service Personnel @ Süleyman Demirel University **
+**Technical Service Personnel @ Süleyman Demirel University**
 Sep 2006 – Jun 2007 | Türkiye | Part-time | On-site
 Provided technical support and performed maintenance across the university's IT infrastructure.
   
