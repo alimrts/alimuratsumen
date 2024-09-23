@@ -78,9 +78,139 @@ Sep 2006 – Jun 2007 | Türkiye | Part-time | On-site
 Provided technical support and performed maintenance across the university's IT infrastructure.
   
 ## Projects
-### Smart Security AI
-A comprehensive camera-based security solution that integrates multiple advanced AI capabilities:
 
-#### Technologies & Techniques: 
-Uses facial recognition for identity verification and access control, object detection for restricted area monitoring, fire and smoke detection to reduce false alarms, and license plate recognition for vehicle tracking.
-Applications: Deployed in large-scale security environments such as airports, industrial zones, and smart cities. The solution is enhanced with custom object detection, e.g., detecting weapons, helmets, or masks in real-time, integrating deep learning models and convolutional neural networks (CNNs) for accurate detection.
+1. AI Digital Assistant and Document Management System (May 2024 - Present)
+Associated with: DEPARTMENT OF INFORMATION TECHNOLOGIES AND COMMUNICATIONS, EGM
+
+Developed an AI-powered digital assistant to streamline document management and information retrieval. The system integrates Large Language Models (LLMs), Optical Character Recognition (OCR), speech-to-text, and translation models. By leveraging Retrieval-Augmented Generation (RAG), users can search, analyze, and retrieve information using natural language queries, speech commands, or scanned documents.
+
+Key Features:
+
+OCR & Speech-to-Text: Converts scanned documents and audio input into searchable text in multiple languages.
+Translation Models: Real-time translation for documents and speech.
+LLM Integration: Enables natural language interactions for advanced search and contextual understanding.
+RAG-based Search: Provides accurate, context-rich answers from document repositories.
+Technologies:
+
+Artificial Intelligence (AI)
+Speech-to-Text
+Full-Stack Development
+FastAPI
+React.js
+2. Custom Object Detection & Emergency Health Monitoring (Aug 2022 - Present)
+Detects specific objects like weapons or safety gear and monitors emergency health situations such as falls or immobility. The system is used in workplace safety, healthcare, and public security environments for real-time emergency alerts.
+
+Key Technologies & Techniques:
+
+YOLO (You Only Look Once): Custom object detection algorithms.
+Human Pose Estimation: Powered by OpenPose for monitoring dangerous situations.
+Applications:
+
+Workplace safety environments
+Healthcare facilities
+Public security
+Technologies:
+
+Computer Vision
+Edge Computing
+Object Detection
+YOLO
+Full-Stack Development
+3. AI-Powered Call Center Analysis Tool (Jun 2023 - Apr 2024)
+A voice analysis system built to enhance call center operations by monitoring and providing real-time feedback.
+
+Key Features:
+
+Converts speech to text and performs real-time sentiment analysis.
+Detects keywords (e.g., blacklisted words) with support for multiple languages and emotion detection.
+Technologies & Techniques:
+
+TensorFlow, Python, NLP
+LSTM: Sequential data processing for emotion detection.
+Applications:
+
+Call centers for QA and customer interaction analysis.
+Technologies:
+
+Python
+Project Management
+Speech-to-Text
+Language Translation
+Full-Stack Development
+4. Image Enhancement Software with OCR (Sep 2022 - Jun 2023)
+Developed a system for enhancing image quality and extracting text from images for automation and data processing.
+
+Key Features:
+
+Image Enhancement: Uses noise reduction, sharpening, and edge detection algorithms.
+OCR: Extracts text using deep learning models.
+Technologies:
+
+Computer Vision
+Generative Adversarial Networks (GANs)
+OCR
+Applications:
+
+Document management systems
+License plate recognition
+Paper record digitization
+5. License Plate Recognition Software (Nov 2020 - May 2021)
+A vehicle tracking system for real-time license plate identification, used in toll collection, parking management, and vehicle law enforcement.
+
+Key Features:
+
+OCR and Computer Vision for recognizing plates in real-time.
+Handles challenging conditions like low light and motion blur.
+Technologies:
+
+Project Management
+Agile Methodologies
+System Architecture Design
+Neural Networks
+6. Personnel Recruitment Project (Mar 2019 - Aug 2019)
+Associated with: DEPARTMENT OF FIGHTING AGAINST CYBER CRIMES, EGM
+
+Developed a personnel recruitment system that generates employee lists based on skills, education, and test scores. Branch managers can evaluate and allocate employees to departments based on qualifications.
+
+Technologies:
+
+Java Spring Boot (Backend)
+React (Frontend)
+MySQL (Database)
+RESTful Web Services
+7. Accounting and Sales Tracking System
+Developed an end-to-end accounting and sales tracking system used across more than 10 branches, handling multi-currency transactions and providing comprehensive sales monitoring.
+
+Key Features:
+
+Multi-branch, multi-currency tracking
+Automated commission calculation for sales staff
+Full CRUD operations for sales, expenses, and employee records
+Technologies:
+
+Java Spring Boot (Backend)
+React (Frontend)
+MySQL (Database)
+RESTful APIs
+8. Automated Testing System
+Associated with: DEPARTMENT OF FIGHTING AGAINST CYBER CRIMES, EGM
+
+Built an automated testing system using Selenium and Cypress to ensure web application functionality across all modules, simulating user interactions and providing detailed test reports.
+
+Technologies:
+
+Selenium
+Cypress
+Python
+TypeScript
+9. Big Data Integration Project
+Associated with: DEPARTMENT OF INFORMATION TECHNOLOGIES AND COMMUNICATIONS, EGM
+
+Led the integration of a law enforcement agency's existing infrastructure into a Big Data ecosystem. The project involved ETL processes, web services, and a React-based frontend for real-time data visualization.
+
+Technologies:
+
+Big Data Technologies: Hadoop, Spark, Nifi, Kafka
+Backend: Java Spring Boot, Python
+Frontend: React
+Database: PostgreSQL, HDFS
